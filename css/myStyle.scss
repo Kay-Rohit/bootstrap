@@ -1,0 +1,19 @@
+$lt-gray: #ddd;
+$background-dark: #512DA8;
+$background-light: #9575CD;
+$background-pale: #D1C4E9;
+$wt: white;
+
+.modal-body{
+    background: $background-pale;
+}
+.modal-header{
+    background: $background-dark;
+    color: $lt-gray;
+}
+.close{
+    color: $wt;
+}
+.card-body{
+    background: $background-pale;
+}
